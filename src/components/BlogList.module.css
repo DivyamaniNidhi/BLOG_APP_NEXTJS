@@ -1,0 +1,22 @@
+.list {
+    list-style: none;
+    padding: 0;
+}
+
+.listItem {
+    margin-bottom: 2rem;
+}
+
+.title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #0070f3;
+}
+
+.date {
+    color: #888;
+}
+
+.summary {
+    margin-top: 0.5rem;
+}
